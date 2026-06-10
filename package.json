@@ -1,0 +1,21 @@
+{
+  "name": "devtracker",
+  "version": "1.0.0",
+  "description": "- Add Project\r - View Project\r - Edit Project\r - Delete Project\r - Filter Projects by Status\r - Search Projects\r - Store Github Repository Links\r - Store Deployment Links",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm run start --prefix backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaPatil2006/MERN-DevTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdityaPatil2006/MERN-DevTracker/issues"
+  },
+  "homepage": "https://github.com/AdityaPatil2006/MERN-DevTracker#readme"
+}
