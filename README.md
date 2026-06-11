@@ -1,11 +1,5 @@
 # 🚀 DevTracker
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/AdityaPatil2006/DevTracker-MERN?color=purple\&style=flat-square)](https://github.com/AdityaPatil2006/DevTracker-MERN)
-[![GitHub issues](https://img.shields.io/github/issues/AdityaPatil2006/DevTracker-MERN?color=pink\&style=flat-square)](https://github.com/AdityaPatil2006/DevTracker-MERN/issues)
-[![React](https://img.shields.io/badge/React-19-blue?style=flat-square\&logo=react)](https://react.dev)
-[![Node.js](https://img.shields.io/badge/Node.js-Express-green?style=flat-square\&logo=nodedotjs)](https://nodejs.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=flat-square\&logo=mongodb)](https://www.mongodb.com)
-
 **DevTracker** is a sleek, modern, full-stack MERN application built to help developers organize, search, and track their personal development projects. Featuring a responsive dark-themed interface and powerful project management tools, DevTracker makes it easy to manage projects from planning to deployment.
 
 ---
@@ -81,17 +75,7 @@ https://mern-devtracker.onrender.com
 
 ### Dashboard
 
-(Add Dashboard Screenshot Here)
-
-### Add Project Form
-
-(Add Form Screenshot Here)
-
-### Project Cards
-
-(Add Project Cards Screenshot Here)
-
----
+<img width="1902" height="975" alt="image" src="https://github.com/user-attachments/assets/39b27c8a-0b64-44ad-bdfc-cd27abc87659" />
 
 ## 📂 Project Structure
 
