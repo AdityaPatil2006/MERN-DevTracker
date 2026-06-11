@@ -1,7 +1,7 @@
 import { ExternalLink, Pencil, Trash2 } from "lucide-react";
 import { useState } from "react";
 import toast from "react-hot-toast";
-import api from "../../../backend/src/lib/axios";
+import api from "../lib/axios";
 
 const ProjectCard = ({ project, fetchProjects, setEditingProject }) => {
   const statusStyles = {

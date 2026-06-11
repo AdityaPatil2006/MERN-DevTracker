@@ -1,7 +1,7 @@
 import { Plus } from "lucide-react";
 import { useEffect, useState } from "react";
 import toast from "react-hot-toast";
-import api from "../../../backend/src/lib/axios";
+import api from "../lib/axios";
 
 const AddProjectForm = ({
   fetchProjects,

@@ -1,9 +1,9 @@
 import { useEffect, useState } from "react";
-import api from "../../../backend/src/lib/axios.js";
 import AddProjectForm from "../components/AddProjectForm.jsx";
 import Navbar from "../components/Navbar";
 import ProjectList from "../components/ProjectList.jsx";
 import SearchFilter from "../components/SearchFilter.jsx";
+import api from "../lib/axios.js";
 
 const DashboardPage = () => {
   const [projects, setProjects] = useState([]);
